@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD5eFC3851F84f4b64006Bb19bfbdFFd8e0386f35",
+  "SCAN_LINK": "https://polygonscan.com/token/0xD5eFC3851F84f4b64006Bb19bfbdFFd8e0386f35",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Elon Emote Club",
+  "SYMBOL": "EEC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 2300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/elon-emote-club",
+  "SHOW_BACKGROUND": true
+}
